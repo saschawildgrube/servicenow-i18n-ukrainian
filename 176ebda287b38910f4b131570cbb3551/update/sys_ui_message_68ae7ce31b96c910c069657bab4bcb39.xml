@@ -12,9 +12,9 @@
         <sys_id>68ae7ce31b96c910c069657bab4bcb39</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Are you sure you want to delete the second data series? (all non-saved changes in main report are going to be lost)</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_68ae7ce31b96c910c069657bab4bcb39</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:36:43</sys_updated_on>

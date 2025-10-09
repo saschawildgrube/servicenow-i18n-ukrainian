@@ -12,9 +12,9 @@
         <sys_id>1daefce31b96c910c069657bab4bcb56</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Associate the System Run Level to the Toggle Level with this mapping. With this record, the API will return the appropriate Toggle Level Value and Exception Roles to your application depending on what the Instance's current System Run Level setting is.</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_1daefce31b96c910c069657bab4bcb56</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:36:47</sys_updated_on>

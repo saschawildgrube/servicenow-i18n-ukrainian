@@ -12,9 +12,9 @@
         <sys_id>b16fb82b1b96c910c069657bab4bcb64</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Scope validation attempt "{0}" of "{1}" failed. Scope is not 'Global', not found on parent instance and lookup in app store failed due to comm. error. Make sure app store is available. See parent instance log for more info. Will re-try in "{2}"</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_b16fb82b1b96c910c069657bab4bcb64</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:05</sys_updated_on>

@@ -16,9 +16,9 @@ To reject and end the escalation, reply to this email with 'REJ'</key>
         <sys_name>Task {0} was escalated but no on-call user accepted it in time. Please investigate.
 To assign yourself to the task, reply to this email with 'ACC' in the message body.
 To reject and end the escalation, reply to this email with 'REJ'</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_fa8ff86b1b96c910c069657bab4bcb8c</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:42</sys_updated_on>

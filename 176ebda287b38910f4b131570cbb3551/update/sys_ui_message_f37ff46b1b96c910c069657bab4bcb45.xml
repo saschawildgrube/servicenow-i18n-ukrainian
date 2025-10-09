@@ -12,9 +12,9 @@
         <sys_id>f37ff46b1b96c910c069657bab4bcb45</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Specifies an IP network with valid IP addresses between 10.0.1.1 and 10.0.1.254 inclusive, an IP address range from 10.0.2.1 to 10.0.2.15 inclusive, and the two individual IP addresses 10.0.3.176 and 10.0.3.222. Any entries you make that cannot be interpr</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_f37ff46b1b96c910c069657bab4bcb45</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:29</sys_updated_on>

@@ -12,9 +12,9 @@
         <sys_id>969f30ab1b96c910c069657bab4bcb3d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>The Survey opt-in for Sentiment Analysis is successful. Now you can go to individual Survey Question and enable the sentiment participation.  Please note that participating question response data of this Survey may be sent outbound to 3rd party platform a</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_969f30ab1b96c910c069657bab4bcb3d</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:56</sys_updated_on>

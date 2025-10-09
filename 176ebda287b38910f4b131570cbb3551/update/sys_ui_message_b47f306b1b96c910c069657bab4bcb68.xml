@@ -14,9 +14,9 @@ An automatic migration of Alert Management from the Global Scope to the Alert Ru
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Self Health Monitoring - {0} scheduled job:
 An automatic migration of Alert Management from the Global Scope to the Alert Rules Management Scoped application was canceled because some of the Global Alert Management files were customized. Since these Globa</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_b47f306b1b96c910c069657bab4bcb68</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:17</sys_updated_on>

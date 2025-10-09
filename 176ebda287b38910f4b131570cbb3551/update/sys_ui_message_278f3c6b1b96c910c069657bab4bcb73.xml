@@ -12,9 +12,9 @@
         <sys_id>278f3c6b1b96c910c069657bab4bcb73</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>The 'Rule is activated when' setting of the rule was reset to 'Alert changes to filter' since there are remediation actions with an execution limit greater than 1. Change all remediations to execution limit = 1 or set the system property 'evt_mgmt.write_r</sys_name>
-        <sys_package display_value="I18N: Ukrainian Translations" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
+        <sys_package display_value="I18N: Ukrainian Translations WORK IN PROGRESS" source="176ebda287b38910f4b131570cbb3551">176ebda287b38910f4b131570cbb3551</sys_package>
         <sys_policy/>
-        <sys_scope display_value="I18N: Ukrainian Translations">176ebda287b38910f4b131570cbb3551</sys_scope>
+        <sys_scope display_value="I18N: Ukrainian Translations WORK IN PROGRESS">176ebda287b38910f4b131570cbb3551</sys_scope>
         <sys_update_name>sys_ui_message_278f3c6b1b96c910c069657bab4bcb73</sys_update_name>
         <sys_updated_by>bogdan.felinskyi</sys_updated_by>
         <sys_updated_on>2022-03-23 17:40:45</sys_updated_on>
